@@ -1,3 +1,7 @@
+### NOME DO AUTOR
+* Gabriel Forster Souza - 10409702
+
+
 ### 1. Inclusão de Bibliotecas
 ```c
 #include <stdio.h>
