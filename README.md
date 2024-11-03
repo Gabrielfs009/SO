@@ -246,3 +246,4 @@ void testar_simulador(MemoriaFisica *memoria_fisica, MemoriaVirtual *memoria_vir
     }
 }
 ```
+O Arquivo. c está no repositorio sob o nome de Lab08.c!!
